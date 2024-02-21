@@ -60,6 +60,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "7c5c599002dab924",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -135,6 +143,22 @@
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "periodic-notes:Open today": false,
+      "zk-prefixer:Create new unique note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false
+    }
   },
   "active": "1963ae44519e7e07",
   "lastOpenFiles": []
